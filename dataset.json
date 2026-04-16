@@ -1,0 +1,22 @@
+{
+  "base_price": 2495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "social",
+  "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
+  "config_name": "Restaurant Social Ghosts in Idaho, US",
+  "export_job_id": "35426e4b-e88f-47d8-af4e-3bd64e85b806",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 923011,
+  "location_name": "Idaho",
+  "location_type": "state",
+  "repo_name": "restaurant-social-ghosts-in-idaho-us-sample-923011",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/923011/beamstation_923011_restaurants-us-id_SAMPLE_DIST.csv",
+  "sample_pct": 7.89,
+  "sample_records": 3,
+  "sample_sha256": "8c347563a7cdec0c0df9d5db8317fe6c2c4fce6a086f9249839d56947efc6b7b",
+  "sample_size_bytes": 25348,
+  "total_records": 38,
+  "updated_at": "2026-04-08T06:25:36.174993+00:00"
+}
