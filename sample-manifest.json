@@ -1,12 +1,12 @@
 {
-  "export_job_id": "35426e4b-e88f-47d8-af4e-3bd64e85b806",
+  "export_job_id": "915f6046-5074-4eb2-9235-2fdc04639c69",
   "id_short": 923011,
-  "published_at": "2026-04-16T19:28:45Z",
+  "published_at": "2026-04-19T07:42:10Z",
   "repo_name": "restaurant-social-ghosts-in-idaho-us-sample-923011",
   "sample_asset_name": "beamstation_923011_restaurants-us-id_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/923011/beamstation_923011_restaurants-us-id_SAMPLE_DIST.csv",
   "sample_records": 3,
   "sample_sha256": "8c347563a7cdec0c0df9d5db8317fe6c2c4fce6a086f9249839d56947efc6b7b",
   "sample_size_bytes": 25348,
-  "total_records": 38
+  "total_records": 36
 }
